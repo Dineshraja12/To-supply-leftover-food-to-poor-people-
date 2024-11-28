@@ -10,7 +10,7 @@ Naan Mudhalvan project done in salesforce.
 - **Team Members**:
   - DINESH RAJA R    (421622104031)
   - ELANGOVAN D      (421622104034)
-  - GURUPRASANTH T   (421622104041)
+  - GURUP RASANTH T   (421622104041)
   - GURU PRASATH     (421622104042)
   - ARAVINDAN T      (421622104009)
 
